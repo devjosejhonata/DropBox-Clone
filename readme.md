@@ -6,10 +6,10 @@
 - Dentro da pasta public, vai estar nossos css, bower components.
 - O arquivo controller do projeto também esta na pasta public, dentro da pasta src.
 - o arquivo html do projeto esta na pasta views com o nome de index.ejs.
--- Projeto utilizando o firebase como banco de dados.
--- Os arquivos fisicos serao armazenados no storage do firebase, nao é ideal armazenar arquivos fisicos em banco de dados por questão de performance, mas o firebase nao é só banco de dados e tem tambem serviço armazenamento de arquivos.
--- subir o arquivo no servidor localhost:3000 utilizando npm start.
--- Funcionalidades do projeto: upload, carregando, criando pastas, renomear, excluindo.
+- Projeto utilizando o firebase como banco de dados.
+- Os arquivos fisicos serao armazenados no storage do firebase, nao é ideal armazenar arquivos fisicos em banco de dados por questão de performance, mas o firebase nao é só banco de dados e tem tambem serviço armazenamento de arquivos.
+- subir o arquivo no servidor localhost:3000 utilizando npm start.
+- Funcionalidades do projeto: upload, carregando, criando pastas, renomear, excluindo.
 ![img1](https://github.com/devjosejhonata/DropBox-Clone/assets/152452859/735e15cf-137d-44c4-b567-e57b3e44a1dc)
 ![img2](https://github.com/devjosejhonata/DropBox-Clone/assets/152452859/ba37c8b5-a7aa-41f4-8068-5fb14ba50b72)
 ![img3](https://github.com/devjosejhonata/DropBox-Clone/assets/152452859/84ad336b-49ea-4d5a-b4a0-5a9ad235074a)
