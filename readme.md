@@ -1,4 +1,4 @@
-- O dropbox é fazer o upload de arquivo e armazenar na nuvem, e poder baixar o arquivo, organizar pasta, abrir diretório... Na pasta principal do projeto tem uma imagem explicando a arquitetura do dropbox.
+- O dropbox é fazer o upload de arquivo e armazenar na nuvem, e poder baixar o arquivo, organizar pasta, abrir diretório.
 - Nesse projeto, tive que instalar o bower.json, utilizando o npm install -g bower, depois de instalando, executei o comando bower install. O bower vai ler o arquivo json dele e baixar as dependencias do front-end.
 - Express ja estava instalado de outro projeto, npm install express-generator. 
 - Após certificar que estava instalado, executei o comando express --ejs, para criar as views, e o nome do aplicativo na frente, no caso app, ficando assim: express --ejs app.
